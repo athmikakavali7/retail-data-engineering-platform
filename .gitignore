@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Spark
+metastore_db/
+spark-warehouse/
+
+# Hadoop
+tmp/
+hadoop_data/
+
+# Airflow
+airflow/logs/
+airflow/plugins/__pycache__/
+
+# dbt
+dbt_packages/
+target/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db

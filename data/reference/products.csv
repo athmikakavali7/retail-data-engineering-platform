@@ -1,0 +1,501 @@
+product_id,product_name,category,unit_price
+PROD00001,Laptop,Electronics,65270.09
+PROD00002,Headphones,Accessories,2258.1
+PROD00003,Power Bank,Accessories,1793.31
+PROD00004,USB Drive,Storage,604.16
+PROD00005,USB Drive,Storage,740.62
+PROD00006,Power Bank,Accessories,1654.23
+PROD00007,Monitor,Electronics,20077.37
+PROD00008,Desk,Furniture,12207.5
+PROD00009,Office Chair,Furniture,9527.42
+PROD00010,Printer,Office,14371.17
+PROD00011,Printer,Office,15042.48
+PROD00012,Printer,Office,14176.42
+PROD00013,Monitor,Electronics,16372.31
+PROD00014,Printer,Office,14648.19
+PROD00015,Tablet,Electronics,29972.2
+PROD00016,Router,Networking,3813.95
+PROD00017,Office Chair,Furniture,9095.92
+PROD00018,Desk,Furniture,13262.02
+PROD00019,SSD 1TB,Storage,6210.09
+PROD00020,Monitor,Electronics,17734.04
+PROD00021,Keyboard,Accessories,1113.4
+PROD00022,Smartphone,Electronics,38031.22
+PROD00023,Desk,Furniture,13470.83
+PROD00024,Monitor,Electronics,17097.26
+PROD00025,USB Drive,Storage,714.43
+PROD00026,Office Chair,Furniture,7438.68
+PROD00027,USB Drive,Storage,621.46
+PROD00028,Smartphone,Electronics,34267.78
+PROD00029,Laptop,Electronics,57918.87
+PROD00030,Mouse,Accessories,765.2
+PROD00031,Headphones,Accessories,2462.02
+PROD00032,Monitor,Electronics,18876.44
+PROD00033,Monitor,Electronics,19499.04
+PROD00034,Office Chair,Furniture,9371.58
+PROD00035,Smartphone,Electronics,38653.73
+PROD00036,Headphones,Accessories,2424.11
+PROD00037,SSD 1TB,Storage,6562.26
+PROD00038,Smartphone,Electronics,29803.25
+PROD00039,Router,Networking,4135.95
+PROD00040,Keyboard,Accessories,1223.71
+PROD00041,Power Bank,Accessories,1558.08
+PROD00042,Mouse,Accessories,691.79
+PROD00043,Printer,Office,12666.58
+PROD00044,Mouse,Accessories,850.52
+PROD00045,Printer,Office,13237.43
+PROD00046,Monitor,Electronics,18044.4
+PROD00047,Keyboard,Accessories,1115.45
+PROD00048,USB Drive,Storage,748.31
+PROD00049,Tablet,Electronics,30495.18
+PROD00050,SSD 1TB,Storage,7748.17
+PROD00051,Monitor,Electronics,15671.73
+PROD00052,Monitor,Electronics,16265.86
+PROD00053,Headphones,Accessories,2466.87
+PROD00054,Desk,Furniture,11481.16
+PROD00055,Keyboard,Accessories,1328.91
+PROD00056,Keyboard,Accessories,1217.31
+PROD00057,Printer,Office,13906.77
+PROD00058,Webcam,Accessories,3643.44
+PROD00059,Monitor,Electronics,15532.06
+PROD00060,SSD 1TB,Storage,7268.28
+PROD00061,Office Chair,Furniture,7395.1
+PROD00062,Router,Networking,4114.53
+PROD00063,Router,Networking,4739.36
+PROD00064,Router,Networking,4352.54
+PROD00065,SSD 1TB,Storage,7666.81
+PROD00066,Desk,Furniture,11138.38
+PROD00067,Webcam,Accessories,3536.96
+PROD00068,Router,Networking,4587.87
+PROD00069,Keyboard,Accessories,1199.05
+PROD00070,Desk,Furniture,10753.78
+PROD00071,Smartphone,Electronics,38046.13
+PROD00072,Webcam,Accessories,3040.48
+PROD00073,SSD 1TB,Storage,7998.81
+PROD00074,Desk,Furniture,12988.27
+PROD00075,Router,Networking,4191.41
+PROD00076,Power Bank,Accessories,1691.48
+PROD00077,Tablet,Electronics,24030.55
+PROD00078,Monitor,Electronics,19974.55
+PROD00079,Power Bank,Accessories,1918.46
+PROD00080,USB Drive,Storage,726.64
+PROD00081,USB Drive,Storage,721.25
+PROD00082,USB Drive,Storage,745.99
+PROD00083,Smartphone,Electronics,39346.32
+PROD00084,Headphones,Accessories,2619.37
+PROD00085,Power Bank,Accessories,1970.4
+PROD00086,Router,Networking,4172.19
+PROD00087,Headphones,Accessories,2768.52
+PROD00088,Mouse,Accessories,908.99
+PROD00089,Mouse,Accessories,751.0
+PROD00090,Laptop,Electronics,70879.56
+PROD00091,Monitor,Electronics,18141.38
+PROD00092,Desk,Furniture,10963.86
+PROD00093,Laptop,Electronics,69481.78
+PROD00094,Desk,Furniture,10546.11
+PROD00095,Webcam,Accessories,3006.16
+PROD00096,USB Drive,Storage,626.57
+PROD00097,Desk,Furniture,10939.35
+PROD00098,Printer,Office,13108.59
+PROD00099,Smartphone,Electronics,33345.61
+PROD00100,Mouse,Accessories,790.98
+PROD00101,Keyboard,Accessories,1189.88
+PROD00102,Monitor,Electronics,16054.15
+PROD00103,Mouse,Accessories,894.54
+PROD00104,Power Bank,Accessories,1749.56
+PROD00105,Smartphone,Electronics,30662.0
+PROD00106,Smartphone,Electronics,33957.59
+PROD00107,Power Bank,Accessories,1981.06
+PROD00108,Keyboard,Accessories,1118.65
+PROD00109,Laptop,Electronics,70465.64
+PROD00110,Mouse,Accessories,760.7
+PROD00111,Printer,Office,12487.65
+PROD00112,Mouse,Accessories,880.74
+PROD00113,USB Drive,Storage,683.49
+PROD00114,Headphones,Accessories,2405.38
+PROD00115,SSD 1TB,Storage,8049.39
+PROD00116,Smartphone,Electronics,33214.6
+PROD00117,Office Chair,Furniture,8964.06
+PROD00118,Headphones,Accessories,2383.48
+PROD00119,Keyboard,Accessories,1058.66
+PROD00120,Router,Networking,3690.22
+PROD00121,Monitor,Electronics,17046.77
+PROD00122,Laptop,Electronics,56872.07
+PROD00123,Keyboard,Accessories,1093.27
+PROD00124,Smartphone,Electronics,39478.06
+PROD00125,Headphones,Accessories,2339.56
+PROD00126,USB Drive,Storage,797.11
+PROD00127,Tablet,Electronics,24576.3
+PROD00128,Smartphone,Electronics,30684.36
+PROD00129,Power Bank,Accessories,1933.34
+PROD00130,Router,Networking,4544.88
+PROD00131,USB Drive,Storage,801.65
+PROD00132,Tablet,Electronics,31621.37
+PROD00133,Headphones,Accessories,2842.03
+PROD00134,Desk,Furniture,10652.17
+PROD00135,Monitor,Electronics,17761.61
+PROD00136,Power Bank,Accessories,1781.42
+PROD00137,Smartphone,Electronics,37184.66
+PROD00138,USB Drive,Storage,662.8
+PROD00139,Smartphone,Electronics,32001.09
+PROD00140,Monitor,Electronics,19606.91
+PROD00141,Mouse,Accessories,842.17
+PROD00142,Mouse,Accessories,839.38
+PROD00143,Mouse,Accessories,913.82
+PROD00144,Headphones,Accessories,2783.46
+PROD00145,Tablet,Electronics,26378.97
+PROD00146,Desk,Furniture,11548.23
+PROD00147,USB Drive,Storage,694.86
+PROD00148,USB Drive,Storage,605.63
+PROD00149,Monitor,Electronics,17392.87
+PROD00150,Mouse,Accessories,868.78
+PROD00151,Office Chair,Furniture,7241.73
+PROD00152,Power Bank,Accessories,1727.0
+PROD00153,Smartphone,Electronics,36341.78
+PROD00154,Router,Networking,4259.44
+PROD00155,Keyboard,Accessories,1092.66
+PROD00156,Smartphone,Electronics,38285.86
+PROD00157,Laptop,Electronics,69730.26
+PROD00158,SSD 1TB,Storage,7711.33
+PROD00159,Printer,Office,13563.57
+PROD00160,Printer,Office,16328.94
+PROD00161,Laptop,Electronics,59355.4
+PROD00162,Desk,Furniture,12716.53
+PROD00163,Webcam,Accessories,3019.12
+PROD00164,Keyboard,Accessories,1214.82
+PROD00165,Webcam,Accessories,3614.76
+PROD00166,Webcam,Accessories,3571.8
+PROD00167,Router,Networking,4209.94
+PROD00168,Webcam,Accessories,3646.09
+PROD00169,Keyboard,Accessories,1093.9
+PROD00170,Power Bank,Accessories,1621.73
+PROD00171,Laptop,Electronics,61016.15
+PROD00172,Monitor,Electronics,20284.7
+PROD00173,USB Drive,Storage,638.51
+PROD00174,Tablet,Electronics,27839.28
+PROD00175,Headphones,Accessories,2340.39
+PROD00176,Webcam,Accessories,3609.5
+PROD00177,Router,Networking,3715.45
+PROD00178,Keyboard,Accessories,1175.69
+PROD00179,Mouse,Accessories,826.65
+PROD00180,Keyboard,Accessories,1244.09
+PROD00181,Mouse,Accessories,759.03
+PROD00182,Smartphone,Electronics,31906.68
+PROD00183,SSD 1TB,Storage,6598.6
+PROD00184,Smartphone,Electronics,30282.28
+PROD00185,Tablet,Electronics,29059.36
+PROD00186,Smartphone,Electronics,32758.71
+PROD00187,Tablet,Electronics,28078.88
+PROD00188,Tablet,Electronics,30970.3
+PROD00189,Smartphone,Electronics,30974.51
+PROD00190,Power Bank,Accessories,1941.48
+PROD00191,Headphones,Accessories,2235.75
+PROD00192,Monitor,Electronics,18909.33
+PROD00193,Webcam,Accessories,3293.9
+PROD00194,Router,Networking,3862.12
+PROD00195,Webcam,Accessories,3286.7
+PROD00196,Headphones,Accessories,2560.74
+PROD00197,SSD 1TB,Storage,6152.06
+PROD00198,Power Bank,Accessories,1900.29
+PROD00199,Smartphone,Electronics,38332.84
+PROD00200,Smartphone,Electronics,29750.85
+PROD00201,USB Drive,Storage,680.09
+PROD00202,Headphones,Accessories,2548.58
+PROD00203,Printer,Office,16160.37
+PROD00204,Printer,Office,13255.37
+PROD00205,Desk,Furniture,12364.71
+PROD00206,SSD 1TB,Storage,6892.56
+PROD00207,Printer,Office,16051.48
+PROD00208,Router,Networking,4232.99
+PROD00209,Smartphone,Electronics,35429.82
+PROD00210,Printer,Office,15180.56
+PROD00211,Headphones,Accessories,2185.13
+PROD00212,Power Bank,Accessories,1548.31
+PROD00213,Webcam,Accessories,3277.19
+PROD00214,Laptop,Electronics,70606.33
+PROD00215,Headphones,Accessories,2141.55
+PROD00216,Keyboard,Accessories,1058.71
+PROD00217,Office Chair,Furniture,8639.43
+PROD00218,Laptop,Electronics,70314.12
+PROD00219,Monitor,Electronics,15349.32
+PROD00220,Router,Networking,4819.84
+PROD00221,Printer,Office,15734.77
+PROD00222,Laptop,Electronics,57891.5
+PROD00223,Monitor,Electronics,18347.42
+PROD00224,Headphones,Accessories,2431.14
+PROD00225,Monitor,Electronics,20019.83
+PROD00226,Mouse,Accessories,742.75
+PROD00227,SSD 1TB,Storage,7349.85
+PROD00228,Desk,Furniture,11077.67
+PROD00229,SSD 1TB,Storage,7953.87
+PROD00230,SSD 1TB,Storage,7415.34
+PROD00231,Smartphone,Electronics,31927.36
+PROD00232,Mouse,Accessories,820.3
+PROD00233,Power Bank,Accessories,1774.73
+PROD00234,Mouse,Accessories,699.71
+PROD00235,Smartphone,Electronics,35873.06
+PROD00236,Tablet,Electronics,31044.48
+PROD00237,Laptop,Electronics,60387.21
+PROD00238,Laptop,Electronics,65430.78
+PROD00239,Webcam,Accessories,3392.84
+PROD00240,Monitor,Electronics,19548.29
+PROD00241,Laptop,Electronics,67144.86
+PROD00242,Keyboard,Accessories,1136.92
+PROD00243,Webcam,Accessories,3475.77
+PROD00244,Headphones,Accessories,2252.26
+PROD00245,Printer,Office,15661.91
+PROD00246,Mouse,Accessories,727.52
+PROD00247,Headphones,Accessories,2861.72
+PROD00248,Router,Networking,3636.4
+PROD00249,Monitor,Electronics,19730.91
+PROD00250,Webcam,Accessories,3285.15
+PROD00251,Headphones,Accessories,2413.52
+PROD00252,Smartphone,Electronics,29833.18
+PROD00253,Desk,Furniture,10493.78
+PROD00254,Monitor,Electronics,18777.34
+PROD00255,Router,Networking,4775.25
+PROD00256,Keyboard,Accessories,1103.07
+PROD00257,Tablet,Electronics,24523.98
+PROD00258,Tablet,Electronics,27838.63
+PROD00259,Mouse,Accessories,688.41
+PROD00260,Keyboard,Accessories,1276.3
+PROD00261,Office Chair,Furniture,8295.62
+PROD00262,Monitor,Electronics,19280.26
+PROD00263,USB Drive,Storage,663.27
+PROD00264,Monitor,Electronics,19582.45
+PROD00265,Webcam,Accessories,2980.54
+PROD00266,Power Bank,Accessories,1655.79
+PROD00267,Printer,Office,15714.44
+PROD00268,Desk,Furniture,10336.07
+PROD00269,Tablet,Electronics,26577.21
+PROD00270,Power Bank,Accessories,1739.83
+PROD00271,Webcam,Accessories,2849.21
+PROD00272,Desk,Furniture,13183.5
+PROD00273,USB Drive,Storage,694.87
+PROD00274,Router,Networking,3706.63
+PROD00275,Office Chair,Furniture,8563.28
+PROD00276,Router,Networking,3721.34
+PROD00277,Router,Networking,4398.09
+PROD00278,Keyboard,Accessories,1072.52
+PROD00279,Mouse,Accessories,887.78
+PROD00280,SSD 1TB,Storage,6692.12
+PROD00281,Tablet,Electronics,28708.12
+PROD00282,Webcam,Accessories,2794.26
+PROD00283,Headphones,Accessories,2708.68
+PROD00284,Router,Networking,3657.82
+PROD00285,Keyboard,Accessories,1128.69
+PROD00286,USB Drive,Storage,730.38
+PROD00287,Printer,Office,15679.07
+PROD00288,Power Bank,Accessories,1841.22
+PROD00289,Power Bank,Accessories,1922.04
+PROD00290,Office Chair,Furniture,8573.72
+PROD00291,SSD 1TB,Storage,8205.61
+PROD00292,Headphones,Accessories,2679.0
+PROD00293,Router,Networking,4283.6
+PROD00294,USB Drive,Storage,762.32
+PROD00295,Router,Networking,4518.18
+PROD00296,Desk,Furniture,13037.71
+PROD00297,Office Chair,Furniture,8686.58
+PROD00298,Laptop,Electronics,63754.11
+PROD00299,Power Bank,Accessories,1741.1
+PROD00300,Monitor,Electronics,16141.01
+PROD00301,Tablet,Electronics,27240.24
+PROD00302,Smartphone,Electronics,35274.59
+PROD00303,Webcam,Accessories,2982.08
+PROD00304,SSD 1TB,Storage,7720.41
+PROD00305,Headphones,Accessories,2297.32
+PROD00306,USB Drive,Storage,637.66
+PROD00307,Keyboard,Accessories,1345.26
+PROD00308,Headphones,Accessories,2620.33
+PROD00309,Power Bank,Accessories,1865.67
+PROD00310,Headphones,Accessories,2604.13
+PROD00311,Mouse,Accessories,871.07
+PROD00312,Power Bank,Accessories,2043.43
+PROD00313,Smartphone,Electronics,30079.74
+PROD00314,Printer,Office,15931.55
+PROD00315,Keyboard,Accessories,1166.04
+PROD00316,Laptop,Electronics,67804.25
+PROD00317,Smartphone,Electronics,39294.59
+PROD00318,Power Bank,Accessories,1577.37
+PROD00319,Mouse,Accessories,911.51
+PROD00320,Office Chair,Furniture,9348.38
+PROD00321,Desk,Furniture,13711.8
+PROD00322,Router,Networking,4602.4
+PROD00323,Router,Networking,3625.78
+PROD00324,Desk,Furniture,13094.22
+PROD00325,Keyboard,Accessories,1036.68
+PROD00326,Office Chair,Furniture,7727.13
+PROD00327,Office Chair,Furniture,7480.99
+PROD00328,Office Chair,Furniture,8576.31
+PROD00329,Mouse,Accessories,904.34
+PROD00330,Router,Networking,4235.67
+PROD00331,Headphones,Accessories,2826.03
+PROD00332,Keyboard,Accessories,1305.0
+PROD00333,Laptop,Electronics,74554.51
+PROD00334,Keyboard,Accessories,1147.61
+PROD00335,SSD 1TB,Storage,6337.28
+PROD00336,Headphones,Accessories,2260.85
+PROD00337,Mouse,Accessories,907.49
+PROD00338,Router,Networking,4751.78
+PROD00339,Headphones,Accessories,2329.04
+PROD00340,Power Bank,Accessories,1567.11
+PROD00341,SSD 1TB,Storage,7316.04
+PROD00342,Tablet,Electronics,29140.68
+PROD00343,USB Drive,Storage,635.12
+PROD00344,Power Bank,Accessories,1586.15
+PROD00345,Monitor,Electronics,20468.46
+PROD00346,Headphones,Accessories,2484.21
+PROD00347,Desk,Furniture,13006.85
+PROD00348,Smartphone,Electronics,39295.76
+PROD00349,Webcam,Accessories,3505.66
+PROD00350,Monitor,Electronics,20343.39
+PROD00351,Desk,Furniture,13180.53
+PROD00352,Router,Networking,3968.0
+PROD00353,Tablet,Electronics,27905.77
+PROD00354,Desk,Furniture,11472.79
+PROD00355,Laptop,Electronics,60073.77
+PROD00356,Printer,Office,12400.45
+PROD00357,Monitor,Electronics,17227.47
+PROD00358,Desk,Furniture,11606.56
+PROD00359,Smartphone,Electronics,32752.81
+PROD00360,Mouse,Accessories,858.46
+PROD00361,Laptop,Electronics,65824.26
+PROD00362,Monitor,Electronics,18268.99
+PROD00363,Power Bank,Accessories,1689.18
+PROD00364,Webcam,Accessories,2774.85
+PROD00365,Desk,Furniture,13485.55
+PROD00366,Router,Networking,3868.07
+PROD00367,Printer,Office,13848.67
+PROD00368,Mouse,Accessories,792.76
+PROD00369,Headphones,Accessories,2380.91
+PROD00370,Router,Networking,4309.64
+PROD00371,Printer,Office,13939.72
+PROD00372,Tablet,Electronics,29455.37
+PROD00373,Printer,Office,12630.95
+PROD00374,Headphones,Accessories,2331.81
+PROD00375,Printer,Office,13285.35
+PROD00376,Keyboard,Accessories,1356.6
+PROD00377,Printer,Office,16208.16
+PROD00378,Keyboard,Accessories,1175.62
+PROD00379,Headphones,Accessories,2482.24
+PROD00380,Monitor,Electronics,16961.8
+PROD00381,Keyboard,Accessories,1138.99
+PROD00382,Mouse,Accessories,724.25
+PROD00383,Webcam,Accessories,3018.47
+PROD00384,USB Drive,Storage,762.68
+PROD00385,Desk,Furniture,12201.65
+PROD00386,Desk,Furniture,10989.36
+PROD00387,Headphones,Accessories,2229.71
+PROD00388,Headphones,Accessories,2783.96
+PROD00389,Power Bank,Accessories,1734.64
+PROD00390,Monitor,Electronics,17178.82
+PROD00391,USB Drive,Storage,596.47
+PROD00392,Webcam,Accessories,3413.04
+PROD00393,Office Chair,Furniture,8506.13
+PROD00394,Printer,Office,12932.7
+PROD00395,Power Bank,Accessories,1845.34
+PROD00396,Tablet,Electronics,26491.14
+PROD00397,Desk,Furniture,10565.23
+PROD00398,Monitor,Electronics,18380.19
+PROD00399,Power Bank,Accessories,1670.68
+PROD00400,Office Chair,Furniture,8520.15
+PROD00401,Keyboard,Accessories,1281.18
+PROD00402,SSD 1TB,Storage,6265.3
+PROD00403,Desk,Furniture,10676.25
+PROD00404,Tablet,Electronics,26330.06
+PROD00405,Router,Networking,3904.44
+PROD00406,Keyboard,Accessories,1361.37
+PROD00407,Keyboard,Accessories,1147.08
+PROD00408,Office Chair,Furniture,8466.52
+PROD00409,Desk,Furniture,10389.54
+PROD00410,Webcam,Accessories,3238.32
+PROD00411,Mouse,Accessories,866.13
+PROD00412,Headphones,Accessories,2591.96
+PROD00413,Printer,Office,16440.05
+PROD00414,Headphones,Accessories,2183.77
+PROD00415,Tablet,Electronics,26729.85
+PROD00416,Printer,Office,13040.28
+PROD00417,Router,Networking,4306.81
+PROD00418,Tablet,Electronics,30309.79
+PROD00419,Office Chair,Furniture,7714.17
+PROD00420,USB Drive,Storage,713.03
+PROD00421,Printer,Office,15045.04
+PROD00422,Keyboard,Accessories,1277.88
+PROD00423,Smartphone,Electronics,37029.22
+PROD00424,Headphones,Accessories,2147.47
+PROD00425,USB Drive,Storage,602.72
+PROD00426,Router,Networking,3901.76
+PROD00427,Headphones,Accessories,2816.76
+PROD00428,Power Bank,Accessories,1940.23
+PROD00429,Power Bank,Accessories,1589.99
+PROD00430,Webcam,Accessories,2853.03
+PROD00431,Headphones,Accessories,2712.65
+PROD00432,Mouse,Accessories,814.37
+PROD00433,Keyboard,Accessories,1260.6
+PROD00434,Monitor,Electronics,16492.27
+PROD00435,Headphones,Accessories,2456.44
+PROD00436,Router,Networking,4221.0
+PROD00437,Router,Networking,4370.77
+PROD00438,Mouse,Accessories,855.0
+PROD00439,Headphones,Accessories,2301.33
+PROD00440,USB Drive,Storage,757.41
+PROD00441,Keyboard,Accessories,1337.3
+PROD00442,SSD 1TB,Storage,6912.07
+PROD00443,Desk,Furniture,11655.7
+PROD00444,Desk,Furniture,12847.77
+PROD00445,Office Chair,Furniture,9709.74
+PROD00446,Monitor,Electronics,15416.61
+PROD00447,USB Drive,Storage,631.66
+PROD00448,Laptop,Electronics,63883.99
+PROD00449,Power Bank,Accessories,1691.25
+PROD00450,Office Chair,Furniture,8962.18
+PROD00451,Office Chair,Furniture,9736.28
+PROD00452,Power Bank,Accessories,1687.06
+PROD00453,Monitor,Electronics,16187.76
+PROD00454,SSD 1TB,Storage,7499.76
+PROD00455,Power Bank,Accessories,2012.9
+PROD00456,Router,Networking,3745.65
+PROD00457,SSD 1TB,Storage,7227.66
+PROD00458,Smartphone,Electronics,37243.94
+PROD00459,Office Chair,Furniture,8348.09
+PROD00460,Router,Networking,4693.56
+PROD00461,Monitor,Electronics,20477.94
+PROD00462,Router,Networking,4038.49
+PROD00463,Tablet,Electronics,31831.03
+PROD00464,Webcam,Accessories,2826.77
+PROD00465,Desk,Furniture,13369.53
+PROD00466,Headphones,Accessories,2167.37
+PROD00467,SSD 1TB,Storage,7847.91
+PROD00468,Office Chair,Furniture,8813.4
+PROD00469,Tablet,Electronics,27817.47
+PROD00470,Webcam,Accessories,2918.24
+PROD00471,Laptop,Electronics,71809.0
+PROD00472,Power Bank,Accessories,1700.79
+PROD00473,Mouse,Accessories,911.34
+PROD00474,Smartphone,Electronics,30445.19
+PROD00475,Mouse,Accessories,724.13
+PROD00476,Webcam,Accessories,3098.15
+PROD00477,Printer,Office,13326.21
+PROD00478,Laptop,Electronics,72008.94
+PROD00479,Smartphone,Electronics,40029.1
+PROD00480,Desk,Furniture,12384.25
+PROD00481,Keyboard,Accessories,1364.73
+PROD00482,Keyboard,Accessories,1132.97
+PROD00483,SSD 1TB,Storage,6867.25
+PROD00484,Monitor,Electronics,16527.05
+PROD00485,Printer,Office,16502.85
+PROD00486,Webcam,Accessories,2744.45
+PROD00487,Webcam,Accessories,2957.35
+PROD00488,USB Drive,Storage,619.18
+PROD00489,USB Drive,Storage,666.56
+PROD00490,Laptop,Electronics,65501.94
+PROD00491,USB Drive,Storage,802.63
+PROD00492,Desk,Furniture,11154.98
+PROD00493,Tablet,Electronics,24784.96
+PROD00494,Laptop,Electronics,58839.48
+PROD00495,Router,Networking,4055.0
+PROD00496,Printer,Office,16355.03
+PROD00497,Smartphone,Electronics,31850.6
+PROD00498,Mouse,Accessories,715.43
+PROD00499,USB Drive,Storage,777.27
+PROD00500,Printer,Office,15471.76
